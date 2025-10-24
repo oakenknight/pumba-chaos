@@ -2,14 +2,6 @@
 
 A chaos engineering demonstration project using Rust, Axum web framework, Redis, Docker, and Pumba for fault injection testing.
 
-## Technologies
-
-- **Rust 1.89+** - Systems programming language
-- **Axum** - Modern async web framework
-- **Redis 7** - In-memory data store
-- **Docker & Docker Compose** - Containerization
-- **Pumba** - Chaos engineering tool for Docker
-
 ## Prerequisites
 
 - Docker and Docker Compose installed
